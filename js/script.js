@@ -1,3 +1,3 @@
-function menu (theMessage) {
-    alert(theMessage);
+function OpenReflexiveExample() {
+
 }
